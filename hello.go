@@ -2,7 +2,6 @@ import (
 	"fmt"
 	"os"
 	"github.com/go-openapi/strfmt"
-	add import for github.com/go-openapi/strfmt
 )
 
 func main() {
