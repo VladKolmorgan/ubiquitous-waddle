@@ -11,6 +11,6 @@ func main() {
 		fmt.Println(idx, arg)
 	}
 
-	//a := strfmt.IsEmail("vlad@test.com")
-	//fmt.Println(a)
+	a := strfmt.IsEmail("vlad@test.com")
+	fmt.Println(a)
 }
