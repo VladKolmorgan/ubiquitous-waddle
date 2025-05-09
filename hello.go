@@ -1,7 +1,7 @@
 import (
 	"fmt"
 	"os"
-	//"github.com/go-openapi/strfmt"
+	"github.com/go-openapi/strfmt"
 	add import for github.com/go-openapi/strfmt
 )
 
